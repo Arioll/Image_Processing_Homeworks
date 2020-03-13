@@ -32,6 +32,6 @@ void Lab1() {
 	waitKey(0);
 }
 
-//int main() {
-//	Lab1();
-//}
+int main() {
+	Lab1();
+}
